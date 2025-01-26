@@ -43,16 +43,6 @@ This is a responsive website for a fitness center, providing various fitness ser
 
 3. **Open the `index.html` file in a web browser** to view the website.
 
-### File Structure
-
-fitness-expert/ 
-│ 
-├── assets/ # Image assets (e.g., logos, background images) 
-├── index.html # Main HTML file 
-├── style.css # CSS file for styling 
-├── script.js # JavaScript file for interactivity 
-└── README.md # Project documentation
-
 
 ## Usage
 
